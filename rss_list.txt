@@ -1,0 +1,11 @@
+https://www.canarymedia.com/feed
+https://www.pv-magazine.com/feed/
+https://www.treehugger.com/feeds/all
+https://www.carbonbrief.org/feed/
+https://www.renewableenergyworld.com/feed/
+https://www.livescience.com/feeds/all
+https://www.popsci.com/feed/
+https://api.quantamagazine.org/feed/
+https://www.smithsonianmag.com/rss/latest_articles/
+https://www.howstuffworks.com/rss.php
+https://www.archdaily.com/feed
