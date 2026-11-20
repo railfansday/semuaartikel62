@@ -4,8 +4,14 @@
     <title>Portal Berita Interaktif - Latest News Feed</title>
     <link>https://railfansday.github.io/semuaartikel62/</link>
     <description>Daily curated technology, automotive, and business news.</description>
-    <lastBuildDate>Thu, 19 Nov 2026 23:56:26 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 04:49:39 -0000</lastBuildDate>
     
+        <item>
+            <title>Casa Sierra Morena I / Gallese Arquitectos</title>
+            <link>https://railfansday.github.io/semuaartikel62/index.html#artikel-548</link>
+            <guid>https://railfansday.github.io/semuaartikel62/index.html#artikel-548</guid>
+            <description>According to recent reports, text description provided by the architects. Sierra Morena House I was designed around the idea of structural honesty, allowing the structure, materials, and openings to define the architecture without relying on additional finishes, while keeping mai...</description>
+        </item>
         <item>
             <title>What if space and time don’t exist? Physicists are chasing hints that our reality emerges from something deeper</title>
             <link>https://railfansday.github.io/semuaartikel62/index.html#artikel-547</link>
@@ -179,12 +185,6 @@
             <link>https://railfansday.github.io/semuaartikel62/index.html#artikel-519</link>
             <guid>https://railfansday.github.io/semuaartikel62/index.html#artikel-519</guid>
             <description>According to recent reports, when the Parthenon was built some 2,500 years ago atop the Acropolis of Athens, one of the temple’s facades stood out for its striking imagery. Stretching for nearly 100 feet above the building’s eastern entrance, the marble-carved pediment depicted A...</description>
-        </item>
-        <item>
-            <title>Tech Report: SolarEdge debuts dual-module power optimizer</title>
-            <link>https://railfansday.github.io/semuaartikel62/index.html#artikel-518</link>
-            <guid>https://railfansday.github.io/semuaartikel62/index.html#artikel-518</guid>
-            <description>SolarEdge unveiled its latest U.S.-made Duo power optimizer for commercial and industrial (C&amp;I) solar projects this week at RE+ 2026 in Las Vegas. Power optimizers are DC-to-DC converters installed on the underside of solar modules to maximize power output. Unlike conventional op...</description>
         </item>
 </channel>
 </rss>
